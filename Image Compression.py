@@ -6,7 +6,6 @@ import matplotlib.pyplot as plt
 
 # Construct the file path using os.path.join
 file_path = os.path.join("image.jpg")
-#"C:\Users\nicks\OneDrive\Pictures\Tropics26325_rectangle.jpg""C:\Users\nicks\OneDrive\Pictures\pict.png"
 # Load the image
 image = cv2.imread(file_path)
 
